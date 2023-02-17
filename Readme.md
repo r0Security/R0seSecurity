@@ -45,15 +45,15 @@
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👨🏾‍💻 <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
 	<b> -->Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
-	##
+	
 - ☁  <b>Service Desk Operator (October 2021 – July 2022) </b> <br>
 	<b> -->AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </b><br>
-	##
+	
 - 🕵🏻 <b>Cyber Security Intern (June 2021 – August 2021) </b><br>
-        <b> -->Gurugram Police Cyber Security, Gurugram, India </b><br>
-	##
+        ###<b> -->Gurugram Police Cyber Security, Gurugram, India </b><br>
+	
 - ✍🏻 <b>Enterprise Testing (April 2021 – June 2021) </b> <br>
-        <b> -->Virtually Testing Foundation, California, USA</b><br>
+        ###<b> -->Virtually Testing Foundation, California, USA</b><br>
 
 </div>
 <p align="center">
