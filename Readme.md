@@ -44,8 +44,9 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 	&nbsp;&nbsp;
-- 👨🏾‍💻 <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
-	  <b> &nbsp;&nbsp;Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
+
+- 👨  <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
+	<b> &nbsp;&nbsp;Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
 	
 - ☁  <b>Service Desk Operator (October 2021 – July 2022) </b> <br>
 	<b> &nbsp;&nbsp;AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </b><br>
@@ -113,4 +114,4 @@
 <p  align="center">
 <img src="/assests/line.gif">             
 </p>
-<h2>[Shivani Bhavsr]</h2?
+<h2>[Shivani Bhavsar]</h2?
