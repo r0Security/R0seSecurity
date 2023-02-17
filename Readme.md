@@ -121,11 +121,11 @@
   📕 Latest Blog Posts 📕 
 
 <!-- BLOG-POST-LIST:START -->
-	- <b>CEH and its Practical might take your nerves but here’s how you can clear it</b>(https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)
+	- <a href= "https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5">CEH and its Practical might take your nerves but here’s how you can clear it</a>
 
-	- <b>EJPT Journey</b>(https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)
+	- <a href="https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233">EJPT Journey</a>
 <!-- BLOG-POST-LIST:END -->
 
-	  ➡️ <b>more blog posts...</b>(https://r0sesecurity.medium.com/)
+	- <a href="https://r0sesecurity.medium.com/">more blog posts..</a>
 
 	<h2>[Shivani Bhavsar]</h2>
