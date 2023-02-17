@@ -1,7 +1,6 @@
 <p align="center">
 	<img src= "https://github.com/R0seSecurity/gitprofile/blob/main/assests/animation.gif">
-	<img src="/assests/animation.gif" alt="Banner">
-
+	
 <a href="https://holopin.io/@R0seSecurity">
     <img src="https://holopin.io/api/user/board?user=R0seSecurity" />
 </a>
@@ -52,14 +51,14 @@
 </div>
 
 <p align="center">
-  <img src="/assets/snake.svg">             
-  <img src="/assets/line.gif">             
+  <img src="/assests/snake.svg">             
+  <img src="/assests/line.gif">             
 </p>
 
 ## 🛠 &nbsp;Tech Stack:
 
 <p align="center">
-  <img src="/assets/tools.png">             
+  <img src="/assests/tools.png">             
 </p>
 
 ### 💻 &nbsp;Languages:
@@ -90,15 +89,14 @@
 
 
 <p  align="center">
-<img src="/assets/line.gif">             
+<img src="/assests/line.gif">             
 </p>
 
 # 📈 Statistics 📈
 # <p align="center">
 <a href="https://tryhackme.com/p/sonu09">
 # <img src="https://tryhackme-badges.s3.amazonaws.com/sonu09.png" alt="TryHackMe"> &nbsp;&nbsp;&nbsp;&nbsp;
-#
-# </p>
+</p>
 
 # <p align="center">
 #   <a href="https://tryhackme.com/p/sonu09">
@@ -110,9 +108,7 @@
 # <img src="/assests/line.gif">             
 # </p>
 
-<p  align="center">
-<img src="/assests/line.gif">
-</p>
+
 
 
 ![Shivani Bhavsar](/assets/footer.svg)
