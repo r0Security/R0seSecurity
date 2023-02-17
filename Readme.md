@@ -30,7 +30,7 @@
 <h4 align="center"><samp>An Ethical Hacker, an Open-Source Contributor, Bug Bounty Hunter, CTF Player and a Cyber-Security enthusiast </samp></h4></p>
 
 <div>
-<img align="right" src="/assets/coder.gif" width="40%"/>
+
   <br>
 
 
@@ -65,9 +65,9 @@
 
 ## 🛠 &nbsp;Tech Stack:
 
-<p align="center">
+<!-- <p align="center">
   <img src="/assests/tools.png">             
-</p>
+</p> -->
 
 ### 💻 &nbsp;Languages:
 
@@ -79,8 +79,8 @@
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
-![Web Application](https://img.shields.io/badge/-Web-Application-05122A?style=flat&logo=Web Application)&nbsp;
-![Vulnerability Assessment](https://img.shields.io/badge/-VulnerabilityAssessment-05122A?style=flat&logo=VulnerabilityAssessment)&nbsp;
+![WebApplication](https://img.shields.io/badge/-Web-Application-05122A?style=flat&logo=Web Application)&nbsp;
+![VulnerabilityAssessment](https://img.shields.io/badge/-VulnerabilityAssessment-05122A?style=flat&logo=VulnerabilityAssessment)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
@@ -88,13 +88,14 @@
 	
 ### 🚀 &nbsp;Tools:
 
-![BurpSuite](https://img.shields.io/badge/-BurpSuite-05122A?style=flat&logo=burpsuite)&nbsp;
+![Burpsuite](https://img.shields.io/badge/-BurpSuite-05122A?style=flat&logo=burp_suite)&nbsp;
 ![Metasploit,](https://img.shields.io/badge/-Metasploit,-05122A?style=flat&logo=Metasploit,)&nbsp;
 ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=Nmap)&nbsp;
-![SQL Map](https://img.shields.io/badge/-SQL-Map-05122A?style=flat&logo=SQLMap)&nbsp;
+![SQLMap](https://img.shields.io/badge/-SQL-Map-05122A?style=flat&logo=SQLMap)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
 ![Netcat](https://img.shields.io/badge/-Netcat-05122A?style=flat&logo=Netcat)&nbsp;
 ![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys)&nbsp;
+	
 <p  align="center">
 <img src="/assests/line.gif">             
 </p>
