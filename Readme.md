@@ -1,9 +1,5 @@
 <p align="center">
 	<img src= "https://github.com/R0seSecurity/gitprofile/blob/main/assests/animation.gif">
-	
-<a href="https://holopin.io/@R0seSecurity">
-    <img src="https://holopin.io/api/user/board?user=R0seSecurity" />
-</a>
 </p>
 
 <p align="center">
@@ -30,17 +26,25 @@
 <h4 align="center"><samp>An Ethical Hacker, an Open-Source Contributor, Bug Bounty Hunter, CTF Player and a Cyber-Security enthusiast </samp></h4></p>
 
 <div>
-
   <br>
+## Hy there, I'm Shivani - [hAcKer]  👋
 
-
-- 👨‍🎓 <samp><b>Masters of Information System Security from Concordia University.</b>
-- 🔭 <samp>Bachelor's in Information Communication Technology from Gujarat Technological University. 
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles in Cybersecurity.
-- 🤔 <samp>Ask me about Pentesting/Bug bounty/Cyber Security.
-- 💬 <samp>Fun fact about me is I love to read books and travel.
+- 🥅 <samp> 2023 Goals: Learn more about cybersecurity
+- 👯 <samp> I’m looking to collaborate with other bug bounty hunter
+- 💼 <samp> I’m seeking for **Full-Time** Opportunities/roles in Cybersecurity.
+- 🤔 <samp> Ask me about Pentesting/Bug bounty/Cyber Security.
+- 💬 <samp> Fun fact about me is I love to read books and travel.
 </div>
 
+<div>
+<h3><b><samp>Education:</samp></b></h3>
+	&nbsp;&nbsp;
+	
+- 👨‍🎓 <samp><b>Masters of Information System Security from Concordia University.</b>
+- 🔭 <samp><b>Bachelor's in Information Communication Technology from Gujarat Technological University. </b>
+	
+</div>
+	
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 	&nbsp;&nbsp;
@@ -115,4 +119,15 @@
 <p  align="center">
 <img src="/assests/line.gif">             
 </p>
-<h2>[Shivani Bhavsar]</h2?
+	
+  📕 Latest Blog Posts 📕 
+
+<!-- BLOG-POST-LIST:START -->
+- [CEH and its Practical might take your nerves but here’s how you can clear it](https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)
+
+- [EJPT Journey](https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://r0sesecurity.medium.com/)
+
+	<h2>[Shivani Bhavsar]</h2>
