@@ -83,18 +83,9 @@
 ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-05122A?style=flat&logo=burpsuite)&nbsp;
 <p  align="center">
 <img src="/assests/line.gif">             
 </p>
