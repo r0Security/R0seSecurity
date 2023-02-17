@@ -43,12 +43,13 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👨🏾‍💻 <b>Specialized Security Analyst 
-		Cree Board of Health and social services of James Bay, Montreal, Quebec (June 2022 – Present)</b><br>
-- ☁  <b>Service Desk Operator (October 2021 – July 2022)
-		AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec <b><br>
-- 🕵🏻 <b>Software Engineer intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
-- ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr, 2022 - Present)<b><br>
+- 👨🏾‍💻 <b>Specialized Security Analyst (June 2022 – Present) </b>
+		<p align="center">Cree Board of Health and social services of James Bay, Montreal, Quebec </p><br>
+- ☁  <b>Service Desk Operator (October 2021 – July 2022) </b>
+		<p align="center">AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </p><br>
+- 🕵🏻 <b>Cyber Security Intern June 2021 – August 2021 </b>
+		<p align="center">Gurugram Police Cyber Security, Gurugram, India </p><br>
+- ✍🏻 <b><b><br>
 - 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
 </div>
 
