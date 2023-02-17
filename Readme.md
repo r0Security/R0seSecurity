@@ -44,16 +44,15 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👨🏾‍💻 <b>Specialized Security Analyst (June 2022 – Present) </b>
-		<a align="center">Cree Board of Health and social services of James Bay, Montreal, Quebec </a><br>
+	<b> -->Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
 - ☁  <b>Service Desk Operator (October 2021 – July 2022) </b>
-		<p align="center">AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </p><br>
+	<b>AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </b><br>
 - 🕵🏻 <b>Cyber Security Intern June 2021 – August 2021 </b>
-		<p align="center">Gurugram Police Cyber Security, Gurugram, India </p><br>
+        <b>Gurugram Police Cyber Security, Gurugram, India </b><br>
 - ✍🏻 <b>Enterprise Testing (April 2021 – June 2021) </b>
-<p align="center">Virtually Testing Foundation, California, USA</a><br>
+        <b>Virtually Testing Foundation, California, USA</b><br>
 
 </div>
-
 <p align="center">
   <img src="/assests/snake.svg">             
   <img src="/assests/line.gif">             
@@ -91,7 +90,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 
-
 <p  align="center">
 <img src="/assests/line.gif">             
 </p>
@@ -111,8 +109,4 @@
 # <p  align="center">
 # <img src="/assests/line.gif">             
 # </p>
-
-
-
-
 ![Shivani Bhavsar](/assets/footer.svg)
