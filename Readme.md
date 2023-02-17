@@ -33,12 +33,12 @@
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
-- 🧑🏽 <samp><b>Founder of Esportzvio (July 2022 - Present)</b>
-- 👨‍🎓 <samp><b>Masters of Computer Application from Galgotias University.</b>
-- 🔭 <samp>Bachelor's in Computer Application from Patliputra University. 
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security
-- 🤔 <samp>I’m looking for help with how to excel in Data Structure and Algorithm.
+
+- 👨‍🎓 <samp><b>Masters of Information System Security from Concordia University.</b>
+- 🔭 <samp>Bachelor's in Information Communication Technology from Gujarat Technological University. 
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles in Cybersecurity.
+- 🤔 <samp>Ask me about Pentesting/Bug bounty/Cyber Security.
+- 💬 <samp>Fun fact about me is I love to read books and travel.
 </div>
 
 <div>
