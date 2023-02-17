@@ -27,7 +27,7 @@
 
 <div>
   <br>
-	##<h1> Hy there, I'm Shivani - [hAcKer]  👋 </h1>
+	<h1> Hy there, I'm Shivani - [hAcKer]  👋 </h1>
 
 - 🥅 <samp> 2023 Goals: Learn more about cybersecurity
 - 👯 <samp> I’m looking to collaborate with other bug bounty hunter
@@ -81,7 +81,7 @@
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
-![WebApplication](https://img.shields.io/badge/-Web-Application-05122A?style=flat&logo=WebApplication)&nbsp;
+![WebApplication](https://img.shields.io/badge/-WebApplication-05122A?style=flat&logo=WebApplication)&nbsp;
 ![VulnerabilityAssessment](https://img.shields.io/badge/-VulnerabilityAssessment-05122A?style=flat&logo=VulnerabilityAssessment)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -121,11 +121,11 @@
   📕 Latest Blog Posts 📕 
 
 <!-- BLOG-POST-LIST:START -->
-- [CEH and its Practical might take your nerves but here’s how you can clear it](https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)
+	- <b>CEH and its Practical might take your nerves but here’s how you can clear it</b>(https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)
 
-- [EJPT Journey](https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)
+	- <b>EJPT Journey</b>(https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://r0sesecurity.medium.com/)
+	  ➡️ <b>more blog posts...</b>(https://r0sesecurity.medium.com/)
 
 	<h2>[Shivani Bhavsar]</h2>
