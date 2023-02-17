@@ -50,7 +50,7 @@
 - 👨  <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
 	<b> &nbsp;&nbsp;Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
 	
-- ☁  <b>Service Desk Operator (October 2021 – July 2022) </b> <br>
+- ☁  <b>IT Service Desk Analyst (October 2021 – July 2022) </b> <br>
 	<b> &nbsp;&nbsp;AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </b><br>
 	
 - 🕵🏻 <b>Cyber Security Intern (June 2021 – August 2021) </b><br>
