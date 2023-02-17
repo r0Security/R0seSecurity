@@ -44,13 +44,14 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👨🏾‍💻 <b>Specialized Security Analyst (June 2022 – Present) </b>
-		<p align="center">Cree Board of Health and social services of James Bay, Montreal, Quebec </p><br>
+		<a align="center">Cree Board of Health and social services of James Bay, Montreal, Quebec </a><br>
 - ☁  <b>Service Desk Operator (October 2021 – July 2022) </b>
 		<p align="center">AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec </p><br>
 - 🕵🏻 <b>Cyber Security Intern June 2021 – August 2021 </b>
 		<p align="center">Gurugram Police Cyber Security, Gurugram, India </p><br>
-- ✍🏻 <b><b><br>
-- 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
+- ✍🏻 <b>Enterprise Testing (April 2021 – June 2021) </b>
+<p align="center">Virtually Testing Foundation, California, USA</a><br>
+
 </div>
 
 <p align="center">
