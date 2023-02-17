@@ -121,9 +121,9 @@
   📕 Latest Blog Posts 📕 
 	
 <div>
-<p>
-[CEH and its Practical might take your nerves but here’s how you can clear it](https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)&nbsp;<br>
-[EJPT Journey](https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)&nbsp; <br>
-[More blog posts..](https://r0sesecurity.medium.com/)&nbsp;<br>
-</p>
+
+[CEH and its Practical might take your nerves but here’s how you can clear it](https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)<br>
+[EJPT Journey](https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233) <br>
+[More blog posts..](https://r0sesecurity.medium.com/)<br>
+
 </div>	
