@@ -20,15 +20,10 @@
 <a href="https://www.instagram.com/shivani9___/">
   <img align="left" alt="aman's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-# <a href="https://www.youtube.com/channel/UC4K4qOPvfPslxXZKjhjJhGg?sub_confirmation=1">
-#   <img align="left" alt="aman's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-# </a>
 <a href="https://tryhackme.com/p/sonu09">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/TryHackME-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-# <a href="https://github.com/king04aman">
-#   <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-# </a>
+	
 </p>
 <br><br>
 
@@ -100,21 +95,15 @@
 
 # 📈 Statistics 📈
 # <p align="center">
-# <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king04aman&theme=algolia&layout=compact"/>
+<a href="https://tryhackme.com/p/sonu09">
+# <img src="https://tryhackme-badges.s3.amazonaws.com/sonu09.png" alt="TryHackMe"> &nbsp;&nbsp;&nbsp;&nbsp;
+#
 # </p>
 
 # <p align="center">
-# <a href="https://leetcode.com/king04aman">
-# <img width="40%" src="https://leetcode.card.workers.dev/king04aman?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-# </a>
-# </p>
-
-# <p align="center">
-#   <a href="https://github.com/king04aman">
-#     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=king04aman&theme=github_dark" />
-#     <img src="https://github-readme-stats.vercel.app/api?username=king04aman&show_icons=true&theme=github_dark&hide_border=true" />
-#     <img src="https://github-readme-streak-stats.herokuapp.com/?user=king04aman&theme=github-dark-blue&hide_border=true" />
+#   <a href="https://tryhackme.com/p/sonu09">
+#     <img align="assests/tryhackme_stats.png" />
+#     <img src="assests/tryhackme_stats1.png" theme=github-dark-blue&hide_border=true" />
 #     <img src="https://activity-graph.herokuapp.com/graph?username=king04aman&theme=react-dark" />
 # </a>
 # </p>
@@ -123,32 +112,9 @@
 # <img src="/assets/line.gif">             
 # </p>
 
-<!-- TODO: Update Repos -->
-## 📕 Pinned Repositories
-<div align="center">
-<a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=keylogger&show_icons=true&theme=tokyonight" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=SDE-DSA-Preparation&show_icons=true&theme=tokyonight" />
-</a><br/>
-<a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=phishing&show_icons=true&theme=tokyonight" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=hacktoberfest2022&show_icons=true&theme=tokyonight" />
-</a><br/>
-</div> 
-
 <p  align="center">
 <img src="/assets/line.gif">
 </p>
 
-## 🏆 GitHub Trophy:
-# <p align="center">
-# <a href="https://github.com/king04aman/">
-#   <img width=800 src="https://github-profile-trophy.vercel.app/?username=king04aman&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-# </a>
-# </p>
 
 ![Shivani Bhavsar](/assets/footer.svg)
