@@ -102,8 +102,8 @@
 
 # <p align="center">
 #   <a href="https://tryhackme.com/p/sonu09">
-#     <img align="assests/tryhackme_stats.png" />
-#     <img src="assests/tryhackme_stats1.png" theme=github-dark-blue&hide_border=true" />
+#     <img align="/assests/Tryhackme_stats.png" />
+#     <img src="/assests/Tryhackme_stats1.png" theme=github-dark-blue&hide_border=true" />
 #     <img src="https://activity-graph.herokuapp.com/graph?username=king04aman&theme=react-dark" />
 # </a>
 # </p>
