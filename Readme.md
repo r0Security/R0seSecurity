@@ -119,9 +119,11 @@
 </p>
 	
   📕 Latest Blog Posts 📕 
-
-	<a href= "https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5" CEH and its Practical might take your nerves but here’s how you can clear it</a>
-	<a href="https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233">EJPT Journey</a>
-	<a href="https://r0sesecurity.medium.com/">More blog posts..</a>
-
 	
+<div>
+
+![CEH and its Practical might take your nerves but here’s how you can clear it](https://medium.com/@r0sesecurity/ceh-practical-glimpse-f680486fc9f5)&nbsp;
+![EJPT Journey](https://r0sesecurity.medium.com/ejpt-synopsis-3f9b7fdd9233)&nbsp;
+![More blog posts..](https://r0sesecurity.medium.com/)&nbsp;
+
+</div>	
