@@ -27,7 +27,7 @@
 
 <div>
   <br>
-## Hy there, I'm Shivani - [hAcKer]  👋
+	##<h1> Hy there, I'm Shivani - [hAcKer]  👋 </h1>
 
 - 🥅 <samp> 2023 Goals: Learn more about cybersecurity
 - 👯 <samp> I’m looking to collaborate with other bug bounty hunter
@@ -38,7 +38,6 @@
 
 <div>
 <h3><b><samp>Education:</samp></b></h3>
-	&nbsp;&nbsp;
 	
 - 👨‍🎓 <samp><b>Masters of Information System Security from Concordia University.</b>
 - 🔭 <samp><b>Bachelor's in Information Communication Technology from Gujarat Technological University. </b>
@@ -47,7 +46,6 @@
 	
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-	&nbsp;&nbsp;
 
 - 👨  <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
 	<b> &nbsp;&nbsp;Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
