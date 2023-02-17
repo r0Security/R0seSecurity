@@ -43,8 +43,10 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👨🏾‍💻 <b>Web Developer intern at MS Esports (Feb, 2022 - July, 2022)</b><br>
-- ☁  <b>Amazon Web Services virtual cloud intern (July, 2022 - Sep, 2022) <b><br>
+- 👨🏾‍💻 <b>Specialized Security Analyst 
+		Cree Board of Health and social services of James Bay, Montreal, Quebec (June 2022 – Present)</b><br>
+- ☁  <b>Service Desk Operator (October 2021 – July 2022)
+		AITS (Academic Information Technology Services), Concordia University, Montreal, Quebec <b><br>
 - 🕵🏻 <b>Software Engineer intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
 - ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr, 2022 - Present)<b><br>
 - 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
