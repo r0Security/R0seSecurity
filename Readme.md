@@ -1,6 +1,6 @@
 <p align="center">
 	
-	<img src="/assets/animation.gif" alt="Banner">
+	<img src="/assests/animation.gif" alt="Banner">
 
 <a href="https://holopin.io/@R0seSecurity">
     <img src="https://holopin.io/api/user/board?user=R0seSecurity" />
@@ -102,12 +102,12 @@
 
 # <p align="center">
 #   <a href="https://tryhackme.com/p/sonu09">
-#     <img align="/assests/Tryhackme_stats.png" />
-#     <img src="/assests/Tryhackme_stats1.png" theme=github-dark-blue&hide_border=true" />
+#     <img align="/assests/Tryhackme_stats.png/">
+#     <img src="/assests/Tryhackme_stats1.png/" theme=github-dark-blue&hide_border=true" />
 #     <img src="https://activity-graph.herokuapp.com/graph?username=king04aman&theme=react-dark" />
 # </a>
 # </p>
-	
+C:\Users\SHIVANI\Desktop\git portfolio\assests\Tryhackme_stats.png	
 # <p  align="center">
 # <img src="/assets/line.gif">             
 # </p>
