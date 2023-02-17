@@ -99,11 +99,11 @@
 </p>
 
 # 📈 Statistics 📈
+	&nbsp;&nbsp;&nbsp;
 # <p align="center">
 <a href="https://tryhackme.com/p/sonu09">
 # <img src="https://tryhackme-badges.s3.amazonaws.com/sonu09.png" alt="TryHackMe"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 # <p align="center">
 #   <a href="https://tryhackme.com/p/sonu09">
 #     <img src="/assests/Tryhackme_stats.png/" alt="TryHackMe"> &nbsp;&nbsp;&nbsp;&nbsp;>
@@ -113,4 +113,4 @@
 # <p  align="center">
 # <img src="/assests/line.gif">             
 # </p>
-![Shivani Bhavsar](/assets/footer.svg)
+
