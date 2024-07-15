@@ -29,7 +29,7 @@
   <br>
 	<h1> Hy there, I'm Shivani - [hAcKer]  👋 </h1>
 
-- 🥅 <samp> 2023 Goals: Learn more about cybersecurity
+- 🥅 <samp> 2024 Goals: Learn more about cybersecurity
 - 👯 <samp> I’m looking to collaborate with other bug bounty hunter
 - 💼 <samp> I’m seeking for **Full-Time** Opportunities/roles in Cybersecurity.
 - 🤔 <samp> Ask me about Pentesting/Bug bounty/Cyber Security.
@@ -46,6 +46,12 @@
 	
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
+
+-  🕵🏻   <b>Application Security Analyst (Oct 2023 – Present) </b> <br>
+	<b> &nbsp;&nbsp;Canada Life, Toronto, Ontario </b><br>
+	
+-  ✍🏻  <b>Pofessor of cybersecurity (August 2023 – Present) </b> <br>
+	<b> &nbsp;&nbsp; Sheridan college,Toronto, Ontario </b><br>
 
 - 👨  <b>Specialized Security Analyst (June 2022 – Present) </b> <br>
 	<b> &nbsp;&nbsp;Cree Board of Health and social services of James Bay, Montreal, Quebec </b><br>
